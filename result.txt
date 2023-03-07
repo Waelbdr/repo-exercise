@@ -1,0 +1,4 @@
+cat result.txt
+pwd
+exit
+cancel
